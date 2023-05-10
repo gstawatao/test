@@ -5,7 +5,7 @@ function setup() {
   let cnv = createCanvas(windowWidth, windowHeight);
   cnv.parent('mySketch');
 
-  G = createImg('images/G.png');
+  G = createImg('images/clue.png');
   G.class('dragme');
 
  
